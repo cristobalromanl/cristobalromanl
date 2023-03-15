@@ -1,5 +1,16 @@
 ### Hola! Soy Cristóbal👋👨‍💻
 
+
+```js
+const cristobalromanl = {
+  technologies: "Web",
+  passions: ["Information System", "Web development"]
+ }
+```
+Puedes encontrarme en🌎:
+- [Linkedin] (https://www.linkedin.com/in/cristobalromanleiva/)
+
+
 <!--
 **cristobalromanl/cristobalromanl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
