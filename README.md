@@ -8,9 +8,9 @@ const cristobalromanl = {
   code: [HTML, CSS, C#, JavaScript]
  }
 ```
-You can find me🌎:
-- [Linkedin](https://www.linkedin.com/in/cristobalromanleiva/)
-- [Instagram](https://www.instagram.com/fixedmesscl)
+## You can find me🌎:
+- [Linkedin](https://www.linkedin.com/in/cristobalromanleiva/) 
+- [Instagram](https://www.instagram.com/fixedmesscl) 
 
 
 <!--
