@@ -3,8 +3,8 @@
 
 ```js
 const cristobalromanl = {
-  technologies: "Web",
-  passions: [Information System, Web development, Continual improvement proces],
+  technologies: Web,
+  passions: [InformationSystem, WebDevelopment, ContinualImprovementProcess],
   code: [HTML, CSS, C#, JavaScript]
  }
 ```
