@@ -1,14 +1,16 @@
-### Hola! Soy Cristóbal👋👨‍💻
+### Hi! I'm Cristóbal👋👨‍💻
 
 
 ```js
 const cristobalromanl = {
   technologies: "Web",
-  passions: ["Information System", "Web development"]
+  passions: [Information System, Web development, Continual improvement proces],
+  code: [HTML, CSS, C#, JavaScript]
  }
 ```
-Puedes encontrarme en🌎:
-- [Linkedin] (https://www.linkedin.com/in/cristobalromanleiva/)
+You can find me🌎:
+- [Linkedin](https://www.linkedin.com/in/cristobalromanleiva/)
+- [Instagram](https://www.instagram.com/fixedmesscl)
 
 
 <!--
